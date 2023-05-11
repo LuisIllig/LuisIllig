@@ -4,7 +4,16 @@
 
 # Greetings, traveler.
 
-The profile is currently under construction 
+The profile is currently under construction
+
+<div id="stats" align="center">
+  <div>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=LuisIllig&theme=highcontrast&date_format=j%20M%5B%20Y%5D"/>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisIllig&layout=compact&theme=vision-friendly-dark"/>
+  </div>
+</div>
 
 <!--
 **LuisIllig/LuisIllig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
