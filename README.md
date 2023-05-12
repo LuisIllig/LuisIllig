@@ -10,7 +10,7 @@
 
 <div id="greetings" align="center">
   <h1 align="center"> Greetings, traveler.</h1>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="traveler.png" width="800" height="450"/>
 </div>
 
 <h2 align="center">About Me:</h2>
