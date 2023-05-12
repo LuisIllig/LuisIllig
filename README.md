@@ -1,5 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="your-linkedin-URL">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=luisillig&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="greetings" align="center">
@@ -21,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/proxmox.svg" title="Proxmox" alt="Proxmox" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg" title="NixOS" alt="NixOS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>
   <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/obsidian.svg" title="Obsidian" alt="Obsidian" width="40" height="40"/>
   <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/mozillafirefoxbrowser.svg" title="Firefox" alt="Firefox" width="40" height="40"/>
 </div>
