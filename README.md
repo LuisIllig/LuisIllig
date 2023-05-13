@@ -14,7 +14,14 @@
 </div>
 
 <h2 align="center">About Me:</h2>
-<div align="center">The profile is currently under construction</div>
+
+<div align="center">
+I am a Software Developer and soon-to-be student in computer science.
+  
+My Interests:
+  
+:heavy_minus_sign:Coding:heavy_minus_sign:Server:heavy_minus_sign:Ai:heavy_minus_sign:3D-Printing:heavy_minus_sign:Music:heavy_minus_sign:Guitar:heavy_minus_sign:
+</div>
 
 <h2 align="center">Language and Tools:</h2>
 <div align="center">
