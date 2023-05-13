@@ -4,6 +4,9 @@
     <a href="https://www.linkedin.com/in/luis-illig-1b2577276/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://www.asturia.dev">
+      <img src="https://img.shields.io/badge/Website-purple?style=for-the-badge&" alt="Website Badge"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=luisillig&style=flat-square&color=blue" alt=""/>
 </div>
@@ -16,11 +19,11 @@
 <h2 align="center">About Me:</h2>
 
 <div align="center">
-I am a Software Developer and soon-to-be student in computer science.
+  I am a Software Developer and soon-to-be student in computer science.
   
-My Interests:
+  My Interests:
   
-:heavy_minus_sign:Coding:heavy_minus_sign:Server:heavy_minus_sign:Ai:heavy_minus_sign:3D-Printing:heavy_minus_sign:Music:heavy_minus_sign:Guitar:heavy_minus_sign:
+  :heavy_minus_sign:Coding:heavy_minus_sign:Server:heavy_minus_sign:Ai:heavy_minus_sign:3D-Printing:heavy_minus_sign:Music:heavy_minus_sign:Guitar:heavy_minus_sign:
 </div>
 
 <h2 align="center">Language and Tools:</h2>
